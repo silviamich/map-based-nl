@@ -1,3 +1,0 @@
-# Telescope     Channel         IMO_NET         Number_det      Scaled_NET      Detector_name
-MFT		M1-140		54.00		2/366		2.86		001_004_030_00A_140_T
-MFT		M1-140		54.00		2/366		2.86		001_004_030_00A_140_B
